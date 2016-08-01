@@ -1,3 +1,3 @@
 # CAST-CCTV-Test-Targets
-VdS
+VdS +
 12 faces low res
